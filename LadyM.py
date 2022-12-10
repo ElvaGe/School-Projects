@@ -670,8 +670,4 @@ y_pred2 = LogisticModel.predict_proba(X2)
 y_pred2 = clf.predict_proba(X2)
 print(y_pred2)
 
-#ValueError: X has 77 features per sample; expecting 1627
-
-
-
 
